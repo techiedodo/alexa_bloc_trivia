@@ -18,19 +18,83 @@
  */
 var questions = [
     {
-        "What is the chemical name for B h?": [
-            "Bohrium",
-            "Barium",
+        "What is Hydrogen's chemical symbol?": [
+            "H",
+            "H, d",
+            "H, e",
+            "H, n"
+        ]
+    },
+    {
+        "What is the chemical name for H, e?": [
+            "Helium",
+            "Hydrogen",
+            "Hafium",
+            "Holium"
+        ]
+    },
+    {
+        "What is Lithium's chemical symbol?": [
+            "L, i",
+            "L",
+            "L, m",
+            "L, a"
+        ]
+    },
+    {
+        "What is the chemical name for B, e?": [
+            "Berylium",
+            "Berkelium",
             "Bromine",
-            "Berkelium"
+            "Boron"
+        ]
+    },
+    {
+        "What is Boron's chemical symbol?": [
+            "B",
+            "B, o",
+            "B, n",
+            "B, r"
+        ]
+    },
+    {
+        "What is Carbon's chemical symbol?": [
+            "C",
+            "C, a",
+            "C, n",
+            "C, o"
+        ]
+    },
+    {
+        "What is the chemical name for N?": [
+            "Nitrogen",
+            "Neon",
+            "Nickel",
+            "Niobium"
+        ]
+    },
+    {
+        "What is Oxygen's chemical symbol?": [
+            "O",
+            "O, x",
+            "O, y",
+            "O, s"
+        ]
+    },
+    {
+        "What is the chemical name for Ne?": [
+            "Neon",
+            "Neptunium",
+            "Nickel",
+            "Nobelium"
         ]
     },
     {
         "What is Radium's chemical symbol?": [
-            "R a",
+            "R, a",
             "R",
-            "R d",
-            "R n"
+            "R, d",
+            "R, n"
         ]
     },
         {
@@ -43,14 +107,14 @@ var questions = [
     },
         {
         "What is Magnesium's chemical symbol?": [
-            "M g",
-            "M n",
-            "M d",
-            "M o"
+            "M, g",
+            "M, n",
+            "M, d",
+            "M, o"
         ]
     },
         {
-        "What is the chemical name for P d?": [
+        "What is the chemical name for P, d?": [
             "Palladium",
             "Platinum",
             "Potassium",
@@ -59,14 +123,14 @@ var questions = [
     },
         {
         "What is Rhenium's chemical symbol?": [
-            "R e",
-            "R n",
-            "R a",
-            "R u"
+            "R, e",
+            "R, n",
+            "R, a",
+            "R, u"
         ]
     },
         {
-        "What is the chemical name for C d?": [
+        "What is the chemical name for C, d?": [
             "Cadmium",
             "Calcium",
             "Californium",
@@ -75,46 +139,46 @@ var questions = [
     },
         {
         "What is Cesium's chemical symbol?": [
-            "C s",
-            "C e",
-            "C r",
-            "C f"
+            "C, s",
+            "C, e",
+            "C, r",
+            "C, f"
         ]
     },
         {
         "What is Curium's chemical symbol?": [
-            "C m",
-            "C u",
-            "C e",
-            "C f"
+            "C, m",
+            "C, u",
+            "C, e",
+            "C, f"
         ]
     },
         {
         "What is Einsteinium's chemical symbol?": [
-            "E s",
-            "E t",
-            "E u",
+            "E, s",
+            "E, t",
+            "E, u",
             "E"
         ]
     },
         {
         "What is the chemical symbol for Gallium?": [
-            "G a",
-            "G d",
-            "G e",
-            "G l"
+            "G, a",
+            "G, d",
+            "G, e",
+            "G, l"
         ]
     },
         {
         "What is Fluorine's chemical symbol?": [
             "F",
-            "F r",
-            "F l",
-            "F n"
+            "F, r",
+            "F, l",
+            "F, n"
         ]
     },
         {
-        "What is the chemical name for M d?": [
+        "What is the chemical name for M, d?": [
             "Mendelevium",
             "Molybdenum",
             "Magnesium",
@@ -123,14 +187,14 @@ var questions = [
     },
         {
         "What is Lanthanum's chemical symbol?": [
-            "L a",
-            "L r",
-            "L i",
-            "L u"
+            "L, a",
+            "L, r",
+            "L, i",
+            "L, u"
         ]
     },
         {
-        "What is the chemical name for R n?": [
+        "What is the chemical name for R, n?": [
             "Radon",
             "Rhodium",
             "Ruthenium",
@@ -139,42 +203,18 @@ var questions = [
     },
         {
         "What is Hafnium's chemical symbol?": [
-            "H f",
-            "H s",
-            "H e",
-            "H o" 
+            "H, f",
+            "H, s",
+            "H, e",
+            "H, o" 
         ]
     },
         {
-        "What is the chemical name for S m?": [
+        "What is the chemical name for S, m?": [
             "Samarium",
             "Scandium", 
             "Seaborgium",
             "Silver"
-        ]
-    },
-        {
-        "What is Ununbium's chemical symbol?": [
-            "U u b",
-            "U u h",
-            "U u o",
-            "U u q"
-        ]
-    },
-        {
-        "What is the chemical name for T b?": [
-            "Terbium",
-            "Thallium",
-            "Thorium",
-            "Titanium"
-        ]
-    },
-        {
-        "What is Indium's chemical symbol?": [
-            "I n",
-            "I",
-            "I d",
-            "I m"
         ]
     },
 ];
